@@ -1,6 +1,7 @@
 <html> 
 <head>
-    <title>Date Widget Notion</title> 
+   theme: THEME-NAME
+   <title>Date Widget Notion</title> 
     <style>
       #lbl {
         display: flex;
